@@ -1,5 +1,5 @@
 # Rock-paper-scissors
-This is the second project
+This project is to practice python
 
 # How to run
 Simply run the `rps.py` file
